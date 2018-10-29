@@ -1,1 +1,1 @@
-web:shipping 
+web: shipping 
