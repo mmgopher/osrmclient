@@ -17,7 +17,7 @@ func main() {
 	router := httprouter.New()
 	router.GET("/", index)
 	router.GET("/routes", routesController.Get)
-	log.Fatal(http.ListenAndServe("localhost:80", router))
+	log.Fatal(http.ListenAndServe("localhost:8080", router))
 }
 func index(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
 	config.Template.ExecuteTemplate(w, "index.gohtml", nil)
