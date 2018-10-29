@@ -1,6 +1,7 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;shipping&gt;">
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/../shipping-app" />
       <root url="file://$PROJECT_DIR$/../github.com" />
       <root url="file://$PROJECT_DIR$/../globallogic" />
       <root url="file://$PROJECT_DIR$/../gopkg.in" />
@@ -9,6 +10,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="file://$PROJECT_DIR$/../shipping-app" />
       <root url="file://$PROJECT_DIR$/../github.com" />
       <root url="file://$PROJECT_DIR$/../globallogic" />
       <root url="file://$PROJECT_DIR$/../gopkg.in" />
