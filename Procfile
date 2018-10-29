@@ -1,1 +1,1 @@
-web:shipping-app 
+web:shipping 
